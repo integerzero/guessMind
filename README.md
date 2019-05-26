@@ -5,7 +5,8 @@ Realtime Drawing Game build with SocketIO, Gulp and Node
 
 ## To Do:
 
-- [ ] Server
-- [ ] Pug
-- [ ] Static
+- [x] Server
+- [x] Pug
+- [x] Static
+- [x] ESLint
 - [ ] SocketIO
